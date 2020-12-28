@@ -9,6 +9,7 @@ a user to specify a callback.
 
 # Example
 
+```js
 function somethingLongrunning(options, callback /*optional*/)
 	let p = new Promise((resolve, reject) => {
 			// Some code here
@@ -21,3 +22,4 @@ function somethingLongrunning(options, callback /*optional*/)
 	})
 	return addCallbackToPromise(p, callback)
 }
+```
