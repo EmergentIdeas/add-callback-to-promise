@@ -1,0 +1,20 @@
+{
+  "name": "add-callback-to-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add-callback-to-promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmergentIdeas/add-callback-to-promise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmergentIdeas/add-callback-to-promise/issues"
+  },
+  "homepage": "https://github.com/EmergentIdeas/add-callback-to-promise#readme"
+}
