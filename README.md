@@ -10,6 +10,8 @@ a user to specify a callback.
 # Example
 
 ```js
+const addCallbackToPromise = require('add-callback-to-promise')
+
 function somethingLongrunning(options, callback /*optional*/)
 	let p = new Promise((resolve, reject) => {
 			// Some code here
