@@ -1,6 +1,6 @@
 {
   "name": "add-callback-to-promise",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "add-callback-to-promise.js",
   "scripts": {
